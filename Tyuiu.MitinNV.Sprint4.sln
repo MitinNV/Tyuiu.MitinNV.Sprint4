@@ -27,6 +27,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task3.V12.Test", "Tyuiu.MitinNV.Sprint4.Task3.V12.Test\Tyuiu.MitinNV.Sprint4.Task3.V12.Test.csproj", "{BB5A95BA-EBFE-4BC3-9352-590CD034CDCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task4.V23.Lib", "Tyuiu.MitinNV.Sprint4.Task4.V23.Lib\Tyuiu.MitinNV.Sprint4.Task4.V23.Lib.csproj", "{18E37607-E2E4-4ADA-8707-D704E6FEEA87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task4.V23", "Tyuiu.MitinNV.Sprint4.Task4.V23\Tyuiu.MitinNV.Sprint4.Task4.V23.csproj", "{13096673-EEB0-4F41-9C8B-276B88A747E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task4.V23.Test", "Tyuiu.MitinNV.Sprint4.Task4.V23.Test\Tyuiu.MitinNV.Sprint4.Task4.V23.Test.csproj", "{DC7DC685-214B-4C21-86EF-FD8391FA327C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +90,17 @@ Global
 		{BB5A95BA-EBFE-4BC3-9352-590CD034CDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB5A95BA-EBFE-4BC3-9352-590CD034CDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB5A95BA-EBFE-4BC3-9352-590CD034CDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E37607-E2E4-4ADA-8707-D704E6FEEA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E37607-E2E4-4ADA-8707-D704E6FEEA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E37607-E2E4-4ADA-8707-D704E6FEEA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E37607-E2E4-4ADA-8707-D704E6FEEA87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13096673-EEB0-4F41-9C8B-276B88A747E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13096673-EEB0-4F41-9C8B-276B88A747E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13096673-EEB0-4F41-9C8B-276B88A747E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13096673-EEB0-4F41-9C8B-276B88A747E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7DC685-214B-4C21-86EF-FD8391FA327C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7DC685-214B-4C21-86EF-FD8391FA327C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7DC685-214B-4C21-86EF-FD8391FA327C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7DC685-214B-4C21-86EF-FD8391FA327C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
