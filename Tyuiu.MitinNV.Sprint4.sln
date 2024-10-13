@@ -15,6 +15,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task1.V4.Test", "Tyuiu.MitinNV.Sprint4.Task1.V4.Test\Tyuiu.MitinNV.Sprint4.Task1.V4.Test.csproj", "{3BB13160-4BC3-4926-B9DD-C8B8A53C7AD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task2.V2.Lib", "Tyuiu.MitinNV.Sprint4.Task2.V2.Lib\Tyuiu.MitinNV.Sprint4.Task2.V2.Lib.csproj", "{8EFD97DF-92DD-4CE6-B776-12384480EFFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task2.V2", "Tyuiu.MitinNV.Sprint4.Task2.V2\Tyuiu.MitinNV.Sprint4.Task2.V2.csproj", "{02E88379-90DA-4D71-B6C3-D72E1EA09397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task2.V2.Test", "Tyuiu.MitinNV.Sprint4.Task2.V2.Test\Tyuiu.MitinNV.Sprint4.Task2.V2.Test.csproj", "{79584DF8-A4E1-4E67-9CBF-0ABB10EA0982}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +54,17 @@ Global
 		{3BB13160-4BC3-4926-B9DD-C8B8A53C7AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BB13160-4BC3-4926-B9DD-C8B8A53C7AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BB13160-4BC3-4926-B9DD-C8B8A53C7AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFD97DF-92DD-4CE6-B776-12384480EFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFD97DF-92DD-4CE6-B776-12384480EFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFD97DF-92DD-4CE6-B776-12384480EFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFD97DF-92DD-4CE6-B776-12384480EFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E88379-90DA-4D71-B6C3-D72E1EA09397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E88379-90DA-4D71-B6C3-D72E1EA09397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E88379-90DA-4D71-B6C3-D72E1EA09397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E88379-90DA-4D71-B6C3-D72E1EA09397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79584DF8-A4E1-4E67-9CBF-0ABB10EA0982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79584DF8-A4E1-4E67-9CBF-0ABB10EA0982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79584DF8-A4E1-4E67-9CBF-0ABB10EA0982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79584DF8-A4E1-4E67-9CBF-0ABB10EA0982}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
