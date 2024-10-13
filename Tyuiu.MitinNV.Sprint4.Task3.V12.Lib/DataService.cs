@@ -8,7 +8,7 @@ namespace Tyuiu.MitinNV.Sprint4.Task3.V12.Lib
         public int Calculate(int[,] array)
         {
             int[] ints = new int[5];
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < array.Length / 5; i++)
             {
                 ints[i] = array[i, 2];
             }
