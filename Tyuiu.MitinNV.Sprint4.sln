@@ -45,6 +45,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task6.V9.Test", "Tyuiu.MitinNV.Sprint4.Task6.V9.Test\Tyuiu.MitinNV.Sprint4.Task6.V9.Test.csproj", "{6A69B962-501A-4036-9F79-656972CFFEBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task7.V15.Lib", "Tyuiu.MitinNV.Sprint4.Task7.V15.Lib\Tyuiu.MitinNV.Sprint4.Task7.V15.Lib.csproj", "{5520236E-E4C0-420A-8EC5-1EA42DCC5623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task7.V15", "Tyuiu.MitinNV.Sprint4.Task7.V15\Tyuiu.MitinNV.Sprint4.Task7.V15.csproj", "{4DBCDC0D-C860-4C35-8B4D-FE77429145C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint4.Task7.V15.Test", "Tyuiu.MitinNV.Sprint4.Task7.V15.Test\Tyuiu.MitinNV.Sprint4.Task7.V15.Test.csproj", "{5FD5F74E-2833-434A-BEB4-C81A894F7B07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +144,17 @@ Global
 		{6A69B962-501A-4036-9F79-656972CFFEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A69B962-501A-4036-9F79-656972CFFEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A69B962-501A-4036-9F79-656972CFFEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5520236E-E4C0-420A-8EC5-1EA42DCC5623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5520236E-E4C0-420A-8EC5-1EA42DCC5623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5520236E-E4C0-420A-8EC5-1EA42DCC5623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5520236E-E4C0-420A-8EC5-1EA42DCC5623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DBCDC0D-C860-4C35-8B4D-FE77429145C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBCDC0D-C860-4C35-8B4D-FE77429145C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBCDC0D-C860-4C35-8B4D-FE77429145C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBCDC0D-C860-4C35-8B4D-FE77429145C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD5F74E-2833-434A-BEB4-C81A894F7B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD5F74E-2833-434A-BEB4-C81A894F7B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD5F74E-2833-434A-BEB4-C81A894F7B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD5F74E-2833-434A-BEB4-C81A894F7B07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
